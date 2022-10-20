@@ -15,7 +15,7 @@
 * W3schools using on() method https://www.w3schools.com/jquery/event_on.asp
 
 ## URL 
-*
+* https://github.com/jhlynn95/scheduler -github
 *
 
 ## MIT License
