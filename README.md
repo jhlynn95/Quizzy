@@ -1,1 +1,1 @@
-# Quizzy
+# Scheduler
