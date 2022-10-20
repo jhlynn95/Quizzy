@@ -16,7 +16,7 @@
 
 ## URL 
 * https://github.com/jhlynn95/scheduler -github
-*
+* https://jhlynn95.github.io/scheduler/ -URL
 
 ## MIT License
 
